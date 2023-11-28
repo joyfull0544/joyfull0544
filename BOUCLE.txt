@@ -1,0 +1,24 @@
+ 1)BOUCLE => instruction repetitive
+*pourquoi on en a besoin?
+
+-controle le saisie d'un utilisateur
+
+*syntaxe
+
+TANT QUE   CONDITION    FAIRE  
+
+#CODE
+(stocker dans la variable)
+FINTANTQUE
+
+*incrementation= stocker une var dans une var
+
+2)les boucles pour
+
+comment l'ecrire
+
+POUR initialisation jusqu'à limite FAIRE
+#code
+
+FINPOUR
+
